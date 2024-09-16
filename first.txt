@@ -1,1 +1,3 @@
 first page ui
+appbar ui added
+footer ui
